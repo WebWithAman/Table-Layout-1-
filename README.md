@@ -1,4 +1,4 @@
-# time-table-layout
+# complex-time-table
 
 This is a simple project that creates a time-table layout using HTML tables and CSS.
 
@@ -12,7 +12,7 @@ This is a simple project that creates a time-table layout using HTML tables and 
 To use this project, you need to have a web browser that supports HTML and CSS. You can download the project files from this GitHub repository or clone it using the following command:
 
 ```bash
-git clone https://github.com/your-username/time-table-layout.git
+git clone https://github.com/webwithaman/complex-time-table.git
 ```
 
 ## Usage
