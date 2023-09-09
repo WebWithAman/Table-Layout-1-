@@ -17,7 +17,7 @@ git clone https://github.com/webwithaman/complex-time-table.git
 
 # Demo
 
-You can see a live demo of this static blog [https://complextimetablebyaman.netlify.app].
+You can see a live demo of this time-table [https://complextimetablebyaman.netlify.app].
 
 ## Usage
 
