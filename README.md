@@ -15,6 +15,10 @@ To use this project, you need to have a web browser that supports HTML and CSS. 
 git clone https://github.com/webwithaman/complex-time-table.git
 ```
 
+# Demo
+
+You can see a live demo of this static blog [https://complextimetablebyaman.netlify.app].
+
 ## Usage
 
 To view the layout, you can open the `index.html` file in your web browser. You can also edit the `index.html` and `style.css` files to change the content and appearance of the layout.
